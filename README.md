@@ -1,6 +1,6 @@
 # Contents
 
-## Folder ZTree_Code
+## Folder ZTree
 Code used for all treatments (including treatment CU that was excluded from the main paper). To run the programs in this folder, the running computer must have an installation of ZTree, the client computers must have an installation of ZLeaf, and running and client computers must be connected on a local network. Files explained in folder README.
 
 ## Data
