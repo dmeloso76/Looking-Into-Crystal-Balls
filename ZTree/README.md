@@ -1,3 +1,9 @@
-Files ending in ".ztt" are ZTree treatments. Files ending in ".ztq" are ZTree questionnaires that follow treatments. In their minimal form, ".ztq" files collect information for participant payment. Ours contain this request plus behavior and demographics-related questions.
-
-There are four treatments and questionnaires corresponding to the humans-only treatment and the three computerized evaluator treatments of our experiment. Treatment CC has *computerized credulous* evaluators, threatment CL has *computerized learning* evaluators, and treatment HF has *human evaluators with free beliefs*. These three treatments are described in the article (Looking into Crystal Balls: A Laboratory Experiment on Reputational Cheap Talk, D. Meloso, S. Nunnari, and M. Ottaviani). The fourth treatment, CU, has *computerized evaluators with uniform prior beliefs*. This treatment is described in the online appendix of the article.
+## Contents
+1. TreatmentHF.ztt: program to run treatment HF (*human evaluators with free beliefs*).
+2. TreatmentHF_Q.ztq: program to run the questionnaire of treatment HF.
+3. TreatmentCC.ztt: program to run treatment CC (*computerized credulous evaluators*).
+4. TreatmentCC_Q.ztq: program to run the questionnaire of treatment CC.
+5. TreatmentCL.ztt: program to run treatment CL (*computerized learning evaluators*).
+6. TreatmentCL_Q.ztq: program to run the questionnaire of treatment CL.
+7. TreatmentCA.ztt: program to run treatment CA (*computerized agnostic evaluators*).
+8. TreatmentCA_Q.ztq: program to run the questionnaire of treatment CA.
